@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#title {
+    text-align: center;
+    margin: 48px 168px 0 168px;
+    color: #000;
+    font-size: 72px;
+    font-weight: 700;
+}
+
+#paragraph {
+    margin: 0 294px;
+    margin-top: 53px;
+    text-align: center;
+    width: 1220px;
+    height: 64px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #FF8000;
+}
+
+#theoryCard {
+    width: 696px;
+    height: 662px;
+    margin-left: 67px;
+}
+
+#theoryTop {
+    padding: 0 7.5px;
+}
+
+#theoryTitle {
+    color: #D9AE00;
+    margin-top: 63px;
+    font-size: 40px;
+}
+
+#paragraphContent {
+    color: #6D81B4;
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 24px;
+    width: 100%;
+}
+
+#galacticImg {
+    width: 100%;
+    height: 415px;
+    margin-top: 30px;
+}
+
+#holeCard {
+    width: 1007px;
+    height: 717px;
+    background-color: #FFCEBE;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid #ff0000;
+    border-bottom: 2px solid #ff0000;
+    margin-left: 74px;
+    margin-top: 101px;
+    padding: 64px;
+}
+
+#holeTop {
+    width: 681px;
+    height: 144px;
+    margin: 0 99px;
+}
+
+#holeTitle {
+    color: #F44E50;
+    ;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+#holeContent {
+    margin-top: 24px;
+    color: #8B2B2C;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#holeImg {
+    margin-top: 30px;
+    width: 879px;
+    height: 415px;
+}
+
+#stringContainer {
+    margin-left: 74px;
+    margin-top: 101px;
+    width: 696px;
+    height: 1041px;
+}
+
+#stringTitle {
+    color: #4716E4;
+    text-align: right;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#stringCard {
+    background-color: #FFC1E3;
+    padding: 24px;
+    border: 3px solid #FF5DA3;
+    margin-top: 24px;
+}
+
+#stringContent {
+    color: #616161;
+    text-align: right;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#keypoints {
+    width: 100%;
+    height: 272px;
+}
+
+#keypointsTitle {
+    color: #414651;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 30px;
+}
+
+#circleImg{
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+
+#descriptionCard{
+    margin-top: 16px;
+}
+
+#circleContentOne{
+    vertical-align: middle;
+    width: 675px;
+    display: inline-block;
+    color: #C27512;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+#circleContentSecond{
+    vertical-align: middle;
+    width: 675px;
+    display: inline-block;
+    color: #C27512;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+#circleContentThird{
+    vertical-align: middle;
+    width: 675px;
+    display: inline-block;
+    color: #C27512;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#keypointsImg{
+    width: 100%;
+    height: 415px;
+    margin-top: 30px;
+}
+
